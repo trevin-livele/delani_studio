@@ -13,6 +13,19 @@
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 .container{
     height: 50vh;
 }
@@ -23,7 +36,6 @@
     margin-left: 10px;
 }
 
-
 .section3{
     height: 60vh;
     background-image: url("/assets/backgrounds/s_image.jpg");
@@ -32,3 +44,26 @@
 .section3 h1{
     text-align: center;
 }
+
+
+
+.section4{
+   height: 50vh;
+}
+
+
+.section4 h1{
+    text-align: center;
+ }
+
+
+ .section5{
+    height: 95vh;
+ 
+ }
+
+
+
+
+
+
