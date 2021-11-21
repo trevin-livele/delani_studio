@@ -60,9 +60,10 @@
  }
 
 
-#contact{
-    height: 90vh;
+#contacts{
+    height: 80vh;
     background-image: url("../assets/backgrounds/c_image.jpg");
+    background-position: center;
 }
 
 #contact h1{
@@ -95,3 +96,4 @@
   font-weight: bold;
   font-family: sans-serif;
 }
+
