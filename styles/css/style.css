@@ -22,3 +22,13 @@
     margin: 20px;
     margin-left: 10px;
 }
+
+
+.section3{
+    height: 60vh;
+    background-image: url("/assets/backgrounds/s_image.jpg");
+}
+
+.section3 h1{
+    text-align: center;
+}
