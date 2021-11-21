@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+}
+
+.section1{
+    height: 95vh;
+    background-color: grey;
+    background-image: url("/assets/backgrounds/h_img.jpg");
+}
+
+.section1 img{
+    align-items: center;
+}
