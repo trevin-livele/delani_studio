@@ -11,3 +11,14 @@
 .section1 img{
     align-items: center;
 }
+
+
+.container{
+    height: 50vh;
+}
+
+.container h1{
+    text-align: center;
+    margin: 20px;
+    margin-left: 10px;
+}
