@@ -97,26 +97,32 @@
   font-family: sans-serif;
 }
 
-/* 
-#contact-fm{
-    background: transparent !important;
-    opacity: 0;
-}
 
-#name, #email #message{
-    border: 2px solid white;
-    background-color: transparent !important;
-    color: white;
-}
-
-::-webkit-input-placeholder{
-    color: white !important;
-}
-
-:-ms-input-placeholder{
-    color: white !important;
-}
-
-::placeholder {
-    color: white !important;
-} */
+#contacts input {
+    height: 45px;
+  }
+  
+  #contacts input,
+  #contacts textarea {
+    background: transparent;
+    border-radius: 0;
+    color: #fff;
+  }
+  
+  #contacts input::placeholder,
+  #contacts textarea::placeholder {
+    color: #cccccc;
+  }
+  
+  #contacts input:focus, #contact input:active,
+  #contacts textarea:focus,
+  #contacts textarea:active {
+    box-shadow: none;
+    border-color: #fff;
+  }
+  
+  #contacts button:focus, #contact button:active {
+    box-shadow: none;
+    border-color: #fff;
+  }
+  
