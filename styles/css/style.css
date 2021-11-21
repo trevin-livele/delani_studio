@@ -11,21 +11,6 @@
 .section1 img{
     align-items: center;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .container{
     height: 50vh;
 }
@@ -57,13 +42,21 @@
  }
 
 
- .section5{
-    height: 95vh;
- 
- }
+#contact{
+    height: 90vh;
+    background-image: url("/assets/backgrounds/c_image.jpg");
+}
 
+#contact h1{
+    text-align: center;
+}
 
+.btn-warning{
+    background-color: #d2B348 !important;
+    columns: white !important;
+}
 
-
-
-
+.btn-warning:hover{
+    background-color: vd2B346 !important;
+    color: black !important;
+}
