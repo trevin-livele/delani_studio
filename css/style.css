@@ -97,3 +97,26 @@
   font-family: sans-serif;
 }
 
+/* 
+#contact-fm{
+    background: transparent !important;
+    opacity: 0;
+}
+
+#name, #email #message{
+    border: 2px solid white;
+    background-color: transparent !important;
+    color: white;
+}
+
+::-webkit-input-placeholder{
+    color: white !important;
+}
+
+:-ms-input-placeholder{
+    color: white !important;
+}
+
+::placeholder {
+    color: white !important;
+} */

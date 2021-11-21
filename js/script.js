@@ -2,7 +2,7 @@ $('#contact-fm').submit(
     function () {
         let name = $('#name').val()
         let email = $('#email').val()
-        let message = $('#message').vaal()
+        let message = $('#message').val()
         let myForm = $('#contact-fm')[0]
 
 
