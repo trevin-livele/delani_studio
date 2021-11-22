@@ -1,4 +1,3 @@
-#read me file
 ![alt text](/img/screenshots/screenshot1.png)
 
 # Team members
@@ -31,6 +30,17 @@ Information Technology Expert
 
 ### Link to github pages
 https://trevin-livele.github.io/delani_studio/
+
+
+
+![alt text](/img/screenshots/screenshot2.png)
+![alt text](/img/screenshots/screenshot3.png)
+![alt text](/img/screenshots/screenshot4.png)
+
+
+
+
+
 
 ### License
 Copyright (c) {2021} **{Trevin Livele}**
