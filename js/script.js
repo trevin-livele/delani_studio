@@ -19,3 +19,66 @@ $('#contact-fm').submit(
         }
     }
 )
+
+
+
+
+
+$(document).ready(function(){
+    $(".img1").click(function(){
+        $(".design-1").toggle("slow");
+        $(".img1").hide()
+    })
+})
+    
+$(document).ready(function(){
+    $(".design-1").click(function(){
+        $(".img1").show()
+        $(".design-1").hide();
+    })
+
+})
+
+
+
+
+
+
+
+
+
+
+$(document).ready(function(){
+    $(".img2").click(function(){
+        $(".development-1").toggle("slow");
+        $(".img2").hide()
+    })
+})
+    
+$(document).ready(function(){
+    $(".development-1").click(function(){
+        $(".img2").show()
+        $(".development-1").hide();
+    })
+
+})
+
+
+
+
+
+
+$(document).ready(function(){
+    $(".img3").click(function(){
+        $(".product-1").toggle("slow");
+        $(".img3").hide()
+    })
+})
+    
+$(document).ready(function(){
+    $(".product-1").click(function(){
+        $(".img3").show()
+        $(".product-1").hide();
+    })
+
+})

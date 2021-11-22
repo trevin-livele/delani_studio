@@ -16,6 +16,15 @@
     
 }
 
+
+
+.design-1, .product-1, .development-1{
+    display: none;
+
+}
+
+
+
 .section1 img{
     align-items: center;
 }
