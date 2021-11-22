@@ -1,5 +1,5 @@
 #read me file
-![alt text](portfolio.png)
+![alt text](/img/screenshots/screenshot1.png)
 
 # Team members
 Trevin Livele
@@ -30,8 +30,7 @@ Information Technology Expert
 
 
 ### Link to github pages
-
-https://trevin-livele.github.io/portfolio/
+https://trevin-livele.github.io/delani_studio/
 
 ### License
 Copyright (c) {2021} **{Trevin Livele}**
